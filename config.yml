@@ -5,3 +5,4 @@ keydname: CN=DESKTOP-L95GGUQ, OU=F-Droid
 keystorepass: gA8A93e4ykYjgDtNPYDtjyqx0k7W9cKtioqpheOwnRo=
 keypass: gA8A93e4ykYjgDtNPYDtjyqx0k7W9cKtioqpheOwnRo=
 apksigner: "apksigner.bat"
+repo_url: "https://selim8212.github.io/seltubedepo/repo"
