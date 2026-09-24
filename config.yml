@@ -1,0 +1,7 @@
+repo_name: "Selim Repo"
+repo_description: "Kendi F-Droid depom."
+repo_keyalias: DESKTOP-L95GGUQ
+keydname: CN=DESKTOP-L95GGUQ, OU=F-Droid
+keystorepass: gA8A93e4ykYjgDtNPYDtjyqx0k7W9cKtioqpheOwnRo=
+keypass: gA8A93e4ykYjgDtNPYDtjyqx0k7W9cKtioqpheOwnRo=
+apksigner: "apksigner.bat"
